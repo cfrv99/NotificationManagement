@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "70II5AaADhhwl3gcZYGhKqAQIuNRub1Z+KLWrwMMeRXO60QorRSZRKA/nljjeMpMIfXeGtR0AA7xJvXu5wrddQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\m.jafarov\\source\\repos\\MediatR.NotificationHandler\\MediatR.NotificationHandler\\MediatR.NotificationHandler.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\m.jafarov\\.nuget\\packages\\mediatr\\10.0.1\\mediatr.10.0.1.nupkg.sha512",
+    "C:\\Users\\m.jafarov\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512",
+    "C:\\Users\\m.jafarov\\.nuget\\packages\\mediatr.extensions.microsoft.dependencyinjection\\10.0.1\\mediatr.extensions.microsoft.dependencyinjection.10.0.1.nupkg.sha512",
+    "C:\\Users\\m.jafarov\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\m.jafarov\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
